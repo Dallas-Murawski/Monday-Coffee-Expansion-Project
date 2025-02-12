@@ -8,8 +8,10 @@ This repository is organized as follows:
 - **data/**: Contains the raw sales data used for analysis.
 - **scripts/**: SQL scripts for queries written.  
 - **tables/**: Outputs from the analysis. 
-- **README.md**: Overview of the project, including objectives, key questions, and findings.  
+- **README.md**: Overview of the project, including objectives, key questions, and findings.
 
+## Tools Used
+This project was completed using PostgresSQL through pgAdmin 4.
 
 ## Main Questions  
 1. **Estimated Coffee Drinkers**  

@@ -2,6 +2,7 @@
 
 ## Purpose  
 This project aims to examine the sales data of Monday Coffee, an online retailer since January 2023, and to suggest the top three cities in India for opening new coffee shop locations based on market demand and sales trends. 
+--------------------
 
 ## Project Format  
 This repository is organized as follows:  
@@ -9,9 +10,11 @@ This repository is organized as follows:
 - **scripts/**: SQL scripts for queries written.  
 - **tables/**: Outputs from the analysis. 
 - **README.md**: Overview of the project, including objectives, key questions, and findings.
+--------------------
 
-## Tools Used
-This project was completed using PostgresSQL through pgAdmin 4.
+## Tools Used  
+ - This project was completed using PostgresSQL through the pgAdmin 4 application.
+--------------------
 
 ## Main Questions  
 1. **Estimated Coffee Drinkers**  
@@ -43,6 +46,7 @@ This project was completed using PostgresSQL through pgAdmin 4.
 
 10. **Potential Market Analysis**  
     Which are the top 3 cities with the highest sales? Provide the city name, total sales, total rent, total customers, and estimated coffee drinkers.  
+--------------------
 
 ## Suggestions  
 Based on the analysis, the recommended cities for new store locations are:  
@@ -51,11 +55,13 @@ Based on the analysis, the recommended cities for new store locations are:
 1. Very low average rent per customer at 294.  
 2. Highest overall revenue at 1.25 million.  
 3. High average sales per customer at 24.2k.  
+---
 
 **City 2: Delhi**  
 1. Largest estimated coffee drinker population at 7.7 million.  
 2. Most significant number of customers, totaling 68.  
 3. Average rent per customer is 330 (still below 500).  
+---
 
 **City 3: Jaipur**  
 1. Leading in the number of customers, totaling 69.  
